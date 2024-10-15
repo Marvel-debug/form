@@ -1,0 +1,83 @@
+body{
+    align-content: center; 
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#div1{
+    border: 2px; 
+    background-color: lightgreen;
+    height: 690px; 
+    width: 800px; 
+    margin: 50px auto;
+    border-style: groove;
+}
+
+h1{
+    margin-left: 20px;
+}
+
+hr{
+    border-style: dotted;
+}
+
+p{
+    margin-left: 20px;
+}
+
+label{
+    margin-left: 20px;
+}
+
+#div2{
+    border: 1px; 
+    width: 700px;
+    background-color: lightgreen;
+    height: 600px; 
+    margin: 50px auto;
+    align-content: center; 
+    border-style: dotted;
+}
+
+#msg{
+    margin-left: 20px;
+}
+
+.alert{
+    background-color: red;
+    width: 94%;
+    color: ghostwhite;
+}
+
+#name{
+    width: 650px;
+    height: 40px; 
+    margin-left: 20px;
+}
+
+#email{ 
+    width: 650px;
+    height: 40px; 
+    margin-left: 20px;
+}
+
+#password{
+    width: 650px;
+    height: 40px; 
+    margin-left: 20px;
+}
+
+#password2{ 
+    width: 650px;
+    height: 40px; 
+    margin-left: 20px;
+}
+
+#submit{
+    border: none; 
+    width: 650px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: green; 
+    color: white;
+}
